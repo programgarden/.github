@@ -2,12 +2,12 @@
  <img align="center" height="300px" src="https://media.tenor.com/ztRyBgFCYDEAAAAi/buy-degen.gif" />
 
  <br/>
- <h1 align="center">파이썬으로 주식코딩 시스템 구축 왕초보도 마스터하기</h1>
+ <h1 align="center">PROGRAM GARDEN</h1>
 </p>
 
 <p align='center'>
  <a href="https://instagram.com/programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programgarden" height="30" width="40" /></a>
- <a href="https://www.youtube.com/c/programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programgarden" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programgarden" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">초보자부터 고수까지<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 학습 커뮤니티</h3>
@@ -52,11 +52,7 @@
 <br>
 <br>
 
-<details open>
-<summary>
-<span style="font-size:18px; font-weight:bold;">온라인(ONLINE) 강의 🛜 </span>
-<br>
-</summary>
+### 온라인(ONLINE) 강의 🛜
 
 <div class="table-wrapper" markdown="block" style="font-size: 16px; overflow-x: scroll;">
  <div style="width:max-content; max-width:1300px;">
@@ -95,20 +91,13 @@
  </div>
 </div>
 
-</details>
-
 <br>
 <br>
 
 ---
 
 
-<details open>
-<summary>
-<span style="font-size:18px; font-weight:bold;">오프라인(OFFLINE) 강의 🏬 </span>
-<br>
-</summary>
-
+### 오프라인(OFFLINE) 강의 🏬
 
 <div class="table-wrapper" markdown="block" style="font-size: 16px; overflow-x: scroll;">
  <div style="width:max-content; max-width:1300px;">
@@ -123,7 +112,6 @@
  </div>
 </div>
 
-</details>
 <br>
 <br>
 
