@@ -1,1 +1,192 @@
-소개란
+<p align="center">
+ <img align="center" height="300px" src="https://media.tenor.com/ztRyBgFCYDEAAAAi/buy-degen.gif" />
+
+ <br/>
+ <h1 align="center">파이썬으로 주식코딩 시스템 구축 왕초보도 마스터하기</h1>
+</p>
+
+<p align='center'>
+ <a href="https://instagram.com/programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programgarden" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/c/programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programgarden" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">초보자부터 고수까지<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 학습 커뮤니티</h3>
+<p align="center">
+ <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/구독하기(sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+</p>
+
+
+<br/>
+
+## ✨ 프로그램 동산 이란?
+<p align="left">
+"많은 사람들이 인생에서 코딩이라는 재밌는 취미를 가지길 바랍니다."라는 마인드로 운영중인, 온/오프라인 코딩 교육 브랜드입니다. 재밌고 흥미롭고 설레는 핀테크 기술에 필요한 코딩을 초보부터 전문가 수준으로 다루는 교육 브랜드입니다.
+</p>
+<br>
+
+## 📖 교육 형태
+
+<p align="left">
+
+<a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25/></a>
+<br>유튜브에서 온라인 강의 수강을 제공합니다. [@유튜브](https://www.youtube.com/@programgarden)
+
+<a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
+<br>오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페](https://cafe.naver.com/programgarden)
+
+<a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
+<br>강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브](https://github.com/programgarden)
+
+<a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
+<br>프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산](https://programgarden.net)
+    
+</p>
+<br>
+
+## 📝 강의 목록
+<span>학습 자료는 스폰서(구독자)에게만 제공됩니다.</span>
+<br>
+<br>
+<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/Sponsor-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+[구독하고 예제코드 받기](https://github.com/sponsors/programgarden)
+<br>
+<br>
+
+<details open>
+<summary>
+<span style="font-size:18px; font-weight:bold;">온라인(ONLINE) 강의 🛜 </span>
+<br>
+</summary>
+
+<div class="table-wrapper" markdown="block" style="font-size: 16px; overflow-x: scroll;">
+ <div style="width:max-content; max-width:1300px;">
+
+| 분야        | 난이도   | 제목 / 내용                                                                                                                                                                                                                          | 예제파일                                            | 수강조건          | 완강 여부  | 비고     |
+| --------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------- | ------ | ------ |
+| 주식 시스템    | 초보-중수 | [주식, ui, 저장소, 클라우드, 원격제어, 서비스까지 처음부터 끝까지 전부 다 해보는 올인원 주식코딩 강의](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)                                                                                         | ❌                                               | FREE          | 진행중    |        |
+|           |       | 증권(주식) 시스템 구축과 서비스까지의 과정을 빠르게 훑어보는 강의입니다.                                                                                                                                                                                        |                                                 |               |        |
+| 주식 시스템    | 초보-중수 | [주식코딩 왕초보도 마스터하기](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)                                                                                                                                          | [🔗](https://github.com/programgarden/MyStocks) | FREE          | ✅      |        |
+|           |       | 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.<br>기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.                                                                                                                                |
+| 해외선물 시스템  | 초보-중수 | [해외선물 초단타 스캘핑 자동화 매매](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)                                                                                                                                      | 🔗                                              | FREE          | ✅      |        |
+|           |       | 해외선물 자동화 시스템을 만듭니다.<br>파이썬 왕기초부터 증권 프로그램으로 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.                                                                                                                                                          |
+| 성과검증 시스템  | 중수    | [백테스팅 내 패던 검증하기](https://youtube.com/playlist?list=PLDtzZPtOGenaRsQOJY8DB44bGdd7lVO4h)                                                                                                                                           | 🔗                                              | FREE          | ✅      |        |
+|           |       | 프로그램 동산이 사용하던 백테스팅 코딩 방법을 알려줍니다.<br>HTS의 차트 csv파일로 진행되며 패턴을 찾고 수익 검증을 하는데 기반이 되는 중요한 자료입니다.<br>연봉부터 일봉, 분봉... 틱봉까지 데이터의 시간만 알 수 있다면 다양하게 사용될 수 있습니다.<br>그 기반을 코딩으로 배웁니다.                                                         |
+| 주식 시스템    | 초보-중수 | [24시간 주식매매 자동화 구축하기[open API+]](https://youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)                                                                                                                            | 🔗                                              | FREE          | ✅      |        |
+|           |       | 주식 자동화 시스템을 구축하는데 필요한 로직을 코딩합니다. 영상은 시중 교재<br>("손가락 하나 까딱하지 않는 주식 거래 시스템 구축")<br>의 참고용으로 학습하면 좋습니다.                                                                                                                              |
+| 주식 시스템    | 초보-중수 | [클래스101의 주식 고급 자동화 매매 강의](https://class101.net/products/GNNMfyIfdxmlByRtMbdI)                                                                                                                                                    | 🔗                                              | Class101에서 수강 | ✅      |        |
+|           |       | 파이썬 왕기초부터 시작해서 증권사의 데이터를 활용하여 분봉, <br>이동평균선 그리고 신문기사 제목 분석까지 적용하는 자동화 매매 코딩을 배웁니다.                                                                                                                                               |
+| 파이썬       | 초보    | [프로그램 동산 파이썬의 정석](https://youtube.com/playlist?list=PLDtzZPtOGenaG_LeSAHpr4opgz0HebcwJ)                                                                                                                                          | 🔗                                              | FREE          | ✅      |        |
+|           |       | 파이썬(코딩 언어)을 금융의 관점에서 상세하게 배웁니다. <br>문제풀이도 많아서 다른 강의와 병행 학습하면 좋습니다.                                                                                                                                                               |
+| 해외선물      | 초보    | [해외선물 시스템을 처음 접하는 분들을 위한 강의](https://youtube.com/playlist?list=PLDtzZPtOGenY9XcxCMJyNCVOghZRyQYG6)                                                                                                                               | ❌                                               | FREE          | ✅      |        |
+|           |       | 해외선물을 처음 접하는 분들을 위한 강의입니다.                                                                                                                                                                                                       |                                                 |               |        |        |
+| 코인 시스템    | 초보-중수 | [코인 24시간 매매 시스템 만들기](https://youtube.com/playlist?list=PLDtzZPtOGenb_spJa7NEoS-oqNo9RiF-_)                                                                                                                                       | 🔗                                              | FREE          | ✅      |        |
+|           |       | 오픈소스로 제공되는 코인 거래소들의 api 사용법을 익힙니다. <br>거래소들의 api는 비슷한 형태를 가지고 있기 때문에 반복적인 설명으로 진행되고 거래소들의 특징들을 살펴봅니다.                                                                                                                            |
+| 데이터 시각화   | 초보-중수 | [코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기](https://youtube.com/playlist?list=PLDtzZPtOGenY6b92dMmEENm4Wu43IeaW9)                                                                                                                             | ❌                                               | FREE          | ✅      |        |
+|           |       |  데이터를 나만의 다양한 시각화 차트로 구현하는 방법을 배웁니다. 코딩을 모르는 초급자 대상으로 만들었고 강의 진행 동안 코딩을 사용하지 않도록 최대한 노력하며 제작한 강의입니다. <br>그만큼 코딩 없이도 멋진 시각화를 구현 할 수 있으며, 만약 엑셀로 데이터를 수집하신다면, 강의를 마스터하고 좀 더 확장해서 공부하고 저장소로도 잘 활용 할 수 있습니다.                         |
+| DB        | 초보    | [증권 데이터베이스 핵심만 배우기](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)                                                                                                                                        | 🔗                                              | FREE          | ✅      |        |
+|           |       | 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다. |
+| 자율주행 키트   | 초보    | [AI 자율주행 자동차 만들기](https://youtube.com/playlist?list=PLDtzZPtOGenYnY3BA2dwZfMZB9U2VphYg)                                                                                                                                          | 🔗                                              | 키트 구매         | 일부 완료  |        |
+|           |       | AI 자율주행 자동차 키트를 이용해서 왕초보 개념부터 AI 동작 원리까지 전반적으로 설명하는 최고의 강의입니다. 파이썬 프로그램 언어 기초가 요구되며 어린이부터 어른까지 모두가 즐길 수 있는 내용입니다.                                                                                                                |
+| 메신저 주식 제어 | 초보-고수 | [텔레그램으로 증권시스템 제어하기](https://youtu.be/mlKcW2dT9QQ)                                                                                                                                                                                | 🔗                                              | FREE          | 삭제된 강의 | 구버전    |
+|           |       | 텔레그램으로 증권 시스템 제어 방법을 살펴봅니다.                                                                                                                                                                                                      |                                                 |               |        |        |
+| 주식 시스템    | 중수    | [24시간 주식매매 자동화 구축 핵심 정리](https://vimeo.com/ondemand/openapi)                                                                                                                                                                     | ❌                                               | 유료            | 삭제된 강의 | 기간 이벤트 |
+|           |       | "손가락 하나 까딱하지 않는 주식 거래 시스템 구축" 및 유튜브 강의의 복잡한 <br> 로직을 쉽게이해할 수 있도록 핵심을 설명하는 2시간 강의입니다.                                                                                                                                             |
+
+ </div>
+</div>
+
+</details>
+
+<br>
+<br>
+
+---
+
+
+<details open>
+<summary>
+<span style="font-size:18px; font-weight:bold;">오프라인(OFFLINE) 강의 🏬 </span>
+<br>
+</summary>
+
+
+<div class="table-wrapper" markdown="block" style="font-size: 16px; overflow-x: scroll;">
+ <div style="width:max-content; max-width:1300px;">
+
+| 분야     | 난이도   | 제목 / 내용                                                                                                          | 예제파일 | 수강조건       | 비고                                                                             |
+| ------ | ----- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------- | ------------------------------------------------------------------------------ |
+| 주식 시스템 | 초보-중수 | [왕초보를 위한 주식코딩 스파르타강의!](https://cafe.naver.com/programgarden/4143)                                                | 🔗   | 조건 보러가기    |                                                                                |
+|        |       | 증권(주식) 시스템 구축과 서비스까지의 과정을 빠르게 훑어보는 강의입니다.                                                                        |      |
+| 터틀 이론  | 초보-고수 | [터틀 캠퍼스](https://turtlecampus.co.kr/turtle/)                                                                     | ❌    | 터틀 캠퍼스에 문의 | 지인 추천으로 수강을 했었고 강의 내용이 좋아서 개인적으로 추천하는 이론 강의입니다.<br>다만, 수강에 대한 모든 판단은 본인의 몫입니다. |
+|        |       | 터틀의 창시자인 리처드 데니스의 수제자 얼키퍼에게 직접 배운 한국인 중 한 분인 'Iron Kim' 사부님의 터틀 강의입니다. 많은 분들에게 입증된 훌륭한 강의이며 상담을 통해서만 수강신청이 가능합니다 |
+
+ </div>
+</div>
+
+</details>
+<br>
+<br>
+
+
+## 강의에서 활용 중인 언어와 기능들 💻
+### 프로그래밍 언어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+### 프론트 언어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> &nbsp 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp 
+ <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+</p>
+
+### 백앤드 언어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
+
+### 모바일 언어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp 
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+</p>
+
+### DB 언어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp 
+ <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+</p>
+
+### 데이터 시각화
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> &nbsp 
+</p>
+
+### DevOps
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp 
+</p>
+
+### Backend as a Service(BaaS)
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp 
+</p>
+
+### 디자인 툴
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp 
+ <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
+</p>
+
+### 그 외 소프트웨어
+<p align="left" style="background:white; padding: 10px; border-radius:10px;">
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
