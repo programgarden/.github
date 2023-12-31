@@ -43,7 +43,7 @@
 </p>
 <br>
 
-## 📝 강의 목록
+## ❤️ 스폰서 등록
 <b>학습 자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
 <span>(스폰서가 아니면 페이지에 접근 할 수 없습니다.)</span>
 <br>
@@ -52,6 +52,41 @@
 [후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
 <br>
 <br>
+
+<details>
+  <summary style="font-size:17px; font-weight:bold;">스폰서 등록하는 방법 보기 🔗</summary>
+ <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png?v=1704038361" />
+ <br>
+ <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 버튼을 클릭하거나, 상단의 Sponsor 버튼을 클릭합니다.
+ <br>
+ <br>
+ <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_2.png?v=1704038321" />
+ sponsor tier(등급)을 확인하고 Select 버튼을 누릅니다.
+ <br>
+ <br>
+ <br>
+ <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_3.png?v=1704038369" />
+ <br>
+ 처음 이용자는 주소지를 입력합니다.
+ <br>
+ <br>
+ <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_4.png?v=1704038374" />
+ <br>
+ 처음 이용자는 결제 카드를 등록합니다.
+ <br>
+ <br>
+ <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_5.png?v=1704038352" />
+ <br>
+모든 등록이 완료되면, 스폰서로 등록 할 수 있습니다. 최종적으로 후원자만 열람이 가능한 예제파일에 접근 할 수 있습니다. 
+
+[예제파일 열람하기 🔗](https://github.com/programgarden/stock_sponsors)
+
+🚫 스폰서가 아니면 404에러로 페이지에 접근 할 수 없습니다.
+
+</details>
+<br>
+
+## 📝 강의 목록
 
 ### 온라인(ONLINE) 강의 🛜
 
