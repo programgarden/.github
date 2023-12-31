@@ -55,27 +55,27 @@
 
 <details>
   <summary>스폰서 등록하는 방법 보기 🔗</summary>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png" />
+ <img border="2px solid #5E5A5F" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png" />
  <br>
  <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 버튼을 클릭하거나, 상단의 Sponsor 버튼을 클릭합니다.
  <br>
  <br>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_2.png" />
+ <img border="2px solid #5E5A5F" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_2.png" />
  sponsor tier(등급)을 확인하고 Select 버튼을 누릅니다.
  <br>
  <br>
  <br>
- <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_3.png" />
+ <img border="2px solid #5E5A5F" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_3.png" />
  <br>
  처음 이용자는 주소지를 입력합니다.
  <br>
  <br>
- <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_4.png" />
+ <img border="2px solid #5E5A5F" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_4.png" />
  <br>
  처음 이용자는 결제 카드를 등록합니다.
  <br>
  <br>
- <img height="300px" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_5.png" />
+ <img border="2px solid #5E5A5F" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_5.png" />
  <br>
 모든 등록이 완료되면, 스폰서로 등록 할 수 있습니다. 최종적으로 후원자만 열람이 가능한 예제파일에 접근 할 수 있습니다. 
 
