@@ -73,7 +73,7 @@
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/MyStocks)  
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
 - **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
 기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
 
@@ -85,9 +85,21 @@
 
 - **분야:** 해외선물 시스템
 - **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)  
+- **영상제공:** [유튜브 보기 🔗](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)  
 - **예제파일:** [준비중]()  
 - **내용:** 해외선물 자동화 시스템을 만듭니다.<br>파이썬 왕기초부터 증권 프로그램으로 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.              
+
+</details>
+<br>
+
+<details open style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">증권 데이터베이스</summary>
+
+- **분야:** DB
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
 
 </details>
 <br>
@@ -172,18 +184,6 @@
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenY6b92dMmEENm4Wu43IeaW9)  
 - **예제파일:** ❌
 - **내용:** 데이터를 나만의 다양한 시각화 차트로 구현하는 방법을 배웁니다. 코딩을 모르는 초급자 대상으로 만들었고 강의 진행 동안 코딩을 사용하지 않도록 최대한 노력하며 제작한 강의입니다. 그만큼 코딩 없이도 멋진 시각화를 구현 할 수 있으며, 만약 엑셀로 데이터를 수집하신다면, 강의를 마스터하고 좀 더 확장해서 공부하고 저장소로도 잘 활용 할 수 있습니다.
-
-</details>
-<br>
-
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">증권 데이터베이스 핵심만 배우기</summary>
-
-- **분야:** DB
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
-- **예제파일:** [준비중]()
-- **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
 
 </details>
 <br>
