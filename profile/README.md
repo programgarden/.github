@@ -85,8 +85,8 @@
 
 - **분야:** 해외선물 시스템
 - **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)  
-- **예제파일:** [준비중]()  
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
 - **내용:** 해외선물 자동화 시스템을 만듭니다.<br>파이썬 왕기초부터 증권 프로그램으로 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.              
 
 </details>
