@@ -29,16 +29,16 @@
 <p align="left">
 
 <a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25/></a>
-<br>유튜브에서 온라인 강의 수강을 제공합니다. [@유튜브](https://www.youtube.com/@programgarden)
+<br>유튜브에서 온라인 강의 수강을 제공합니다. [@유튜브 🔗](https://www.youtube.com/@programgarden)
 
 <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
-<br>오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페](https://cafe.naver.com/programgarden)
+<br>오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
 
 <a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
-<br>강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브](https://github.com/programgarden)
+<br>강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브 🔗](https://github.com/programgarden)
 
 <a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
-<br>프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산](https://programgarden.net)
+<br>프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산 🔗](https://programgarden.net)
     
 </p>
 <br>
@@ -48,8 +48,8 @@
 <span>(스폰서가 아니면 페이지에 접근 할 수 없습니다.)</span>
 <br>
 <br>
-<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/Sponsor-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
-[후원하고 예제코드 받기](https://github.com/sponsors/programgarden)
+<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+[후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
 <br>
 <br>
 
@@ -61,7 +61,7 @@
 - **분야:** 주식 시스템
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90)
 - **내용:** RestAPI라는 방식을 이용해서 초보자도 쉽게 증권 시스템을 접할 수 있게 진행합니다. 그리고 해당 강의는 코딩에 집중하기보단 증권 시스템을 설계하는 방법에서 서비스까지의 필요한 것들이 무엇인지 빠르게 훑어보는 초보자 대상 강의입니다. 빠르게 큰 흐름을 잡을 수 있습니다.
 
 </details>
@@ -73,7 +73,7 @@
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
 - **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
 기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
 
@@ -86,7 +86,7 @@
 - **분야:** 해외선물 시스템
 - **난이도:** 초보-중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
 - **내용:** 해외선물 자동화 시스템을 만듭니다.<br>파이썬 왕기초부터 증권 프로그램으로 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.              
 
 </details>
@@ -98,7 +98,7 @@
 - **분야:** DB
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 - **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
 
 </details>
@@ -110,7 +110,7 @@
 - **분야:** 주식 시스템
 - **난이도:** 중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaRsQOJY8DB44bGdd7lVO4h)  
-- **예제파일:** [준비중]()  
+- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/backtesting)  
 - **내용:** 프로그램 동산이 사용하던 백테스팅 코딩 방법을 알려줍니다.<br>HTS의 차트 csv파일로 진행되며 패턴을 찾고 수익 검증을 하는데 기반이 되는 중요한 자료입니다. 연봉부터 일봉, 분봉... 틱봉까지 데이터의 시간만 알 수 있다면 다양하게 사용될 수 있습니다. 그 기반을 코딩으로 배웁니다.              
 
 </details>
@@ -122,7 +122,7 @@
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)  
-- **예제파일:** [준비중]()  
+- **예제파일:** [열람하기 🔗](https://github.com/programgarden/book)  
 - **내용:** 주식 자동화 시스템을 구축하는데 필요한 로직을 코딩합니다. 영상은 시중 교재("손가락 하나 까딱하지 않는 주식 거래 시스템 구축")의 참고용으로 학습하면 좋습니다.             
 
 </details>
@@ -146,7 +146,7 @@
 - **분야:** 단순 코딩
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaG_LeSAHpr4opgz0HebcwJ)  
-- **예제파일:** [준비중]()
+- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/python_basic)
 - **내용:** 파이썬(코딩 언어)을 금융의 관점에서 상세하게 배웁니다. 문제풀이도 많아서 다른 강의와 병행 학습하면 좋습니다.
 
 </details>
@@ -170,7 +170,7 @@
 - **분야:** 코인 시스템
 - **난이도:** 초보-중수
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenb_spJa7NEoS-oqNo9RiF-_)  
-- **예제파일:** [준비중]()
+- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/coin_basic)
 - **내용:** 오픈소스로 제공되는 코인 거래소들의 api 사용법을 익힙니다. 거래소들의 api는 비슷한 형태를 가지고 있기 때문에 반복적인 설명으로 진행되고 거래소들의 특징들을 살펴봅니다.
 
 </details>
@@ -194,7 +194,7 @@
 - **분야:** 하드웨어
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenYnY3BA2dwZfMZB9U2VphYg)  
-- **예제파일:** [준비중]()
+- **예제파일:** ❌
 - **재료:** 키트 별도 구매
 - **내용:** AI 자율주행 자동차 키트를 이용해서 왕초보 개념부터 AI 동작 원리까지 전반적으로 설명하는 최고의 강의입니다. 파이썬 프로그램 언어 기초가 요구되며 어린이부터 어른까지 모두가 즐길 수 있는 내용입니다.
 
@@ -209,7 +209,7 @@
 - **분야:** 메신저 시스템
 - **난이도:** 초보-고수
 - **영상제공:** [유튜브 보기 🔗](https://youtu.be/mlKcW2dT9QQ)  
-- **예제파일:** [준비중]()
+- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/telegram_hard_version)
 - **내용:** ~~텔레그램으로 증권 시스템 제어 방법을 살펴봅니다.~~
 
 </details>
