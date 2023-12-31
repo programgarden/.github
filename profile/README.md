@@ -56,13 +56,13 @@
 ### 온라인(ONLINE) 강의 🛜
 
 <details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">주식, ui, 저장소, 클라우드, 원격제어, 서비스까지 처음부터 끝까지 전부 다 해보는 올인원 주식코딩 강의</summary>
+ <summary style="font-size:17px; font-weight:bold;">주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</summary>
 
 - **분야:** 주식 시스템
-- **난이도:** 초보-중수
+- **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)  
-- **예제파일:** ❌
-- **내용:** 증권(주식) 시스템 구축과 서비스까지의 과정을 빠르게 훑어보는 강의입니다.
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90)
+- **내용:** RestAPI라는 방식을 이용해서 초보자도 쉽게 증권 시스템을 접할 수 있게 진행합니다. 그리고 해당 강의는 코딩에 집중하기보단 증권 시스템을 설계하는 방법에서 서비스까지의 필요한 것들이 무엇인지 빠르게 훑어보는 초보자 대상 강의입니다. 빠르게 큰 흐름을 잡을 수 있습니다.
 
 </details>
 <br>
