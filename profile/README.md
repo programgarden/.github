@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<details>
+<details open>
   <summary>스폰서 등록하는 방법 보기 🔗</summary>
  <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png?v=1704040296" />
  <br>
@@ -292,6 +292,57 @@
 - **강의신청:** [강의 상세내용 🔗](https://turtlecampus.co.kr/turtle/)  
 - **예제파일:** 현장 제공
 - **내용:** 터틀의 창시자인 리처드 데니스의 수제자 얼키퍼에게 직접 배운 한국인 중 한 분인 'Iron Kim' 사부님의 터틀 강의입니다. 많은 분들에게 입증된 훌륭한 강의이며 상담을 통해서만 수강신청이 가능합니다
+
+</details>
+<br>
+
+### 초보자를 위한 짦은 이론 강의 🐥
+#### 강의 수강할때 알아두면 좋은 이론들입니다.
+
+<details style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리!</summary>
+
+- **분야:** 소프트웨어
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtu.be/a6lcOzneGzo?si=rweGC5Tqi0YAXVEK)  
+- **예제파일:** ❌
+- **내용:** 코딩하고 실행할 때 데이터 처리시 메모리 세팅이 이루어지는 원리를 배웁니다.
+
+</details>
+<br>
+
+<details style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트</summary>
+
+- **분야:** 소프트웨어
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtu.be/XHxdw9NoyR4?si=35FLSVMdqHTB4_qN)  
+- **예제파일:** ❌
+- **내용:** 코딩 실력을 빠르게 늘리고 싶은 분들 그리고 IT 강의력을 높이고 싶은 강사들을 위한 노하우 내용입니다.
+
+</details>
+<br>
+
+<details style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">데이터 송수신하는 Rest의 탄생과 원리</summary>
+
+- **분야:** 소프트웨어
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtu.be/8NNsTGaXgJU?si=1MYZ6N20HDqw6rOy)  
+- **예제파일:** ❌
+- **내용:** 증권 프로그램을 배울때 Rest방식의 역사를 알아두면 데이터 송수신 원리를 파악하는데 큰 도움이 됩니다. Rest의 탄생과 원리를 배워봐요.
+
+</details>
+<br>
+
+<details style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기</summary>
+
+- **분야:** 소프트웨어
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtu.be/tgIeRK3Ckdo?si=0unONx4w-IaTYZ-S)  
+- **예제파일:** ❌
+- **내용:** 증권 시스템은 동시성 기반으로 동작합니다. 동시성에는 Async가 대표적입니다. 그렇다면 Async가 만들어진 이유는 무엇일까요? 그 역사를 배워봅니다.
 
 </details>
 <br>
