@@ -164,13 +164,13 @@
 <br>
 
 <details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">클래스101의 주식 고급 자동화 매매 강의</summary>
+ <summary style="font-size:17px; font-weight:bold;">class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지</summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
-- **영상제공:** [Class101에서 수강 🔗](https://class101.net/products/GNNMfyIfdxmlByRtMbdI)  
-- **예제파일:** 클래스101에서 구입
-- **내용:** 파이썬 왕기초부터 시작해서 증권사의 데이터를 활용하여 분봉, 이동평균선 그리고 신문기사 제목 분석까지 적용하는 자동화 매매 코딩을 배웁니다.
+- **영상제공:** [class101 보기(class101 회원만 시청 가능) 🔗](https://class101.net/products/GNNMfyIfdxmlByRtMbdI?utm_campaign=share_feature&utm_content=share_feature&utm_medium=referral&utm_source=link&utm_term=all)  
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/class101_%EC%8B%A4%EC%A0%84%ED%88%AC%EC%9E%90%EB%A1%9C%20%EC%9E%AC%EB%B0%8C%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- **내용:** class101에 올렸던 실전 투자로 코딩 연습을 해보는 강의입니다. 본 강의는 class101에서 수강 가능하며 초보자 눈높이 맞춰서 파이썬 기초부터 자동화 구조 잡는 것까지 다이렉트로 진행됩니다. 그리고 실전 계좌로 소량의 돈으로 매수/매도 테스트도 해보기 떄문에, 긴장감과 재미가 동반되는 강의입니다.
 
 </details>
 <br>
@@ -262,8 +262,6 @@
 - **내용:** ~~"손가락 하나 까딱하지 않는 주식 거래 시스템 구축" 및 유튜브 강의의 복잡한 <br> 로직을 쉽게이해할 수 있도록 핵심을 설명하는 2시간 강의입니다.~~
 
 </details>
-<br>
-
 <br>
 <br>
 
