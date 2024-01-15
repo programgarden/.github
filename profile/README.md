@@ -143,6 +143,18 @@
 </details>
 <br>
 
+<details open style="font-size:16px;">
+ <summary style="font-size:17px; font-weight:bold;">왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기</summary>
+
+- **분야:** 도면 시스템
+- **난이도:** 초보-고수
+- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZgHKC6bkQaNL4AP109PuXh)  
+- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EB%B9%A0%EB%A5%B8%20%EC%BD%94%EB%94%A9%20%EC%8B%A4%EB%A0%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%84%A4%EA%B3%84%EB%8F%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0_plantUML%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- **내용:** 빠르게 실력 향상을 하려면 코딩을 많이 하는 것만큼 중요한 게 있습니다. 그것은 코드 흐름도를 설계하는 실력입니다. 소프트웨어, 알고리즘의 구조적인 흐름도를 설계할 수 있는 기본기가 잡혀야만, 코딩 실력이 몇배로 빠르게 향상될 수 있습니다. 그리고 설계한 흐름도로 인하여, 코드 오류가 줄어들고 유지보수가 편리해집니다. 그러므로 PlantUML 기능을 이용해서 알고리즘 흐름도 설계하는 방법의 기본기를 배웁니다.
+
+</details>
+<br>
+
 <details style="font-size:16px;">
  <summary style="font-size:17px; font-weight:bold;">백테스팅 내 패던 검증하기</summary>
 
