@@ -385,8 +385,8 @@
 - **참여비:** [후원자 🔗](https://github.com/programgarden#%EF%B8%8F-%EC%8A%A4%ED%8F%B0%EC%84%9C-%EB%93%B1%EB%A1%9D)는 무료
 - **인원:** 최대 5명
 - **참여신청:** 
-  - [후원자는 후원자만 접근 가능한 페이지에서 신청 🔗](https://forms.gle/5iBvYaoRM6z8vJND9)
-  - [일반인은 카페에서 신청 🔗](https://cafe.naver.com/programgarden)
+  - [비후원자는 카페를 통해서 신청 🔗](https://cafe.naver.com/programgarden)
+  - [후원자 전용 신청서 🔗](https://forms.gle/5iBvYaoRM6z8vJND9)
 - **상세내용:** [상세 내용 보기 🔗](https://cafe.naver.com/programgarden/4169)
 - **모임 주제:** "지금 공부하는 내용을 다른 이들에게 쉽게 설명 할 수 있습니까?" 
 프로그래밍의 빠른 실력 향상과 뛰어난 알고리즘 구축 능력을 가지기 위해서는 본인이 연구(공부)중인 내용을 타인에게 쉽게 설명 할 수 있어야 합니다. 그렇게 시작한 스터디 모임! 각자 돌아가며 설명충이 되어 공부 중인 내용을 모두에게 전달하고 피드백 받고 인사이트를 공유하는 모임입니다.
