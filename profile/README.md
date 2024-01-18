@@ -63,7 +63,7 @@
 <br>
 
 <details open>
-  <summary>스폰서 등록하는 방법 보기 🔗</summary>
+  <summary><b>스폰서 등록하는 방법 보기 🔗</b></summary>
  <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png?v=1704040296" />
  <br>
  <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 버튼을 클릭하거나, 상단의 Sponsor 버튼을 클릭합니다.
@@ -106,8 +106,8 @@
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</summary>
+<details open>
+ <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</b></summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 초보
@@ -118,8 +118,8 @@
 </details>
 <br>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">주식코딩 왕초보도 마스터하기</summary>
+<details open>
+ <summary><b>주식코딩 왕초보도 마스터하기</b></summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
@@ -131,8 +131,8 @@
 </details>
 <br>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">해외선물 초단타 스캘핑 자동화 매매</summary>
+<details open>
+ <summary><b>해외선물 초단타 스캘핑 자동화 매매</b></summary>
 
 - **분야:** 해외선물 시스템
 - **난이도:** 초보-중수
@@ -143,8 +143,8 @@
 </details>
 <br>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">증권 데이터베이스</summary>
+<details open>
+ <summary><b>증권 데이터베이스</b></summary>
 
 - **분야:** DB
 - **난이도:** 초보
@@ -155,8 +155,8 @@
 </details>
 <br>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기</summary>
+<details open>
+ <summary><b>왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기</b></summary>
 
 - **분야:** 도면 시스템
 - **난이도:** 초보-고수
@@ -167,8 +167,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">백테스팅 내 패던 검증하기</summary>
+<details>
+ <summary><b>백테스팅 내 패던 검증하기</b></summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 중수
@@ -179,8 +179,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">24시간 주식매매 자동화 구축하기[open API+]</summary>
+<details>
+ <summary><b>24시간 주식매매 자동화 구축하기[open API+]</b></summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
@@ -191,8 +191,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지</summary>
+<details>
+ <summary><b>class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지</b></summary>
 
 - **분야:** 주식 시스템
 - **난이도:** 초보-중수
@@ -203,8 +203,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">프로그램 동산 파이썬의 정석</summary>
+<details>
+ <summary><b>프로그램 동산 파이썬의 정석</b></summary>
 
 - **분야:** 단순 코딩
 - **난이도:** 초보
@@ -215,8 +215,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">해외선물 시스템을 처음 접하는 분들을 위한 강의</summary>
+<details>
+ <summary><b>해외선물 시스템을 처음 접하는 분들을 위한 강의</b></summary>
 
 - **분야:** 해외선물 이론
 - **난이도:** 초보
@@ -227,8 +227,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">코인 24시간 매매 시스템 만들기</summary>
+<details>
+ <summary><b>코인 24시간 매매 시스템 만들기</b></summary>
 
 - **분야:** 코인 시스템
 - **난이도:** 초보-중수
@@ -239,8 +239,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기</summary>
+<details>
+ <summary><b>코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기</b></summary>
 
 - **분야:** 데이터 분석
 - **난이도:** 초보-중수
@@ -251,8 +251,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">AI 자율주행 자동차 만들기</summary>
+<details>
+ <summary><b>AI 자율주행 자동차 만들기</b></summary>
 
 - **분야:** 하드웨어
 - **난이도:** 초보
@@ -265,8 +265,8 @@
 <br>
 
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; text-decoration: line-through;">텔레그램으로 증권시스템 제어하기</summary>
+<details>
+ <summary><b>텔레그램으로 증권시스템 제어하기</b></summary>
 
 - **기타:** 삭제된 강의
 - **분야:** 메신저 시스템
@@ -279,8 +279,8 @@
 <br>
 
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; text-decoration: line-through;">24시간 주식매매 자동화 구축 핵심 정리</summary>
+<details>
+ <summary><b>24시간 주식매매 자동화 구축 핵심 정리</b></summary>
 
 - **기타:** 기간 한정 이벤트
 - **분야:** 주식 시스템
@@ -299,11 +299,11 @@
 짧은 영상으로 이론을 기반하여 지식을 전달해주는 영상 모음
 
 -->
-## 초보자를 위한 짦은 영상, 유튜브 강의 🐥
+## 🐥 초보자를 위한 짦은 영상, 유튜브 강의
 <p> 강의 수강할때 알아두면 좋은 이론들입니다. </p>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리!</summary>
+<details>
+ <summary><b>CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리!</b></summary>
 
 - **분야:** 소프트웨어
 - **난이도:** 초보
@@ -314,8 +314,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트</summary>
+<details>
+ <summary><b>코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트</b></summary>
 
 - **분야:** 소프트웨어
 - **난이도:** 초보
@@ -326,8 +326,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">데이터 송수신하는 Rest의 탄생과 원리</summary>
+<details>
+ <summary><b>데이터 송수신하는 Rest의 탄생과 원리</b></summary>
 
 - **분야:** 소프트웨어
 - **난이도:** 초보
@@ -338,8 +338,8 @@
 </details>
 <br>
 
-<details style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기</summary>
+<details>
+ <summary><b>Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기</b></summary>
 
 - **분야:** 소프트웨어
 - **난이도:** 초보
@@ -362,8 +362,8 @@
 프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
 </p>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">증권 시스템 구조와 스스로 확장을 가능하게 배우는 세미나</summary>
+<details open>
+ <summary><b>증권 시스템 구조와 스스로 확장을 가능하게 배우는 세미나</b></summary>
 
 - 온라인 / 오프라인 세미나를 준비중입니다. 시스템 트레이딩, AI, DB 등, 매월 다양하게 진행 예정입니다. 수천명의 학습자들 중에, 후원자 분들은 무료 참석이 가능하도록 준비중입니다.
 - [후원자 🔗](https://github.com/programgarden#%EF%B8%8F-%EC%8A%A4%ED%8F%B0%EC%84%9C-%EB%93%B1%EB%A1%9D)만 참석하는 세미나입니다.
@@ -374,8 +374,8 @@
 </details>
 <br>
 
-<details open style="font-size:16px;">
- <summary style="font-size:17px; font-weight:bold;">공부중인 내용 서로 피드백 해주는 모임</summary>
+<details open>
+ <summary><b>공부중인 내용 서로 피드백 해주는 모임</b></summary>
 
 - **참여조건:** IT를 공부중인 누구나
 - **진행일자:** 
