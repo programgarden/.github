@@ -106,193 +106,9 @@
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
 
-<details open>
- <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</b></summary>
+[유튜브 강의 목록 보기 🔗](https://programgarden.net/collections/programgarden_lecture)
 
-- **분야:** 주식 시스템
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)  
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90)
-- **내용:** RestAPI라는 방식을 이용해서 초보자도 쉽게 증권 시스템을 접할 수 있게 진행합니다. 그리고 해당 강의는 코딩에 집중하기보단 증권 시스템을 설계하는 방법에서 서비스까지의 필요한 것들이 무엇인지 빠르게 훑어보는 초보자 대상 강의입니다. 빠르게 큰 흐름을 잡을 수 있습니다.
-
-</details>
 <br>
-
-<details open>
- <summary><b>주식코딩 왕초보도 마스터하기</b></summary>
-
-- **분야:** 주식 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
-- **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
-기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
-
-</details>
-<br>
-
-<details open>
- <summary><b>해외선물 초단타 스캘핑 자동화 매매</b></summary>
-
-- **분야:** 해외선물 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
-- **내용:** 해외선물 자동화 시스템을 만듭니다.<br>파이썬 왕기초부터 증권 프로그램으로 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.              
-
-</details>
-<br>
-
-<details open>
- <summary><b>증권 데이터베이스</b></summary>
-
-- **분야:** DB
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
-- **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
-
-</details>
-<br>
-
-<details open>
- <summary><b>왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기</b></summary>
-
-- **분야:** 도면 시스템
-- **난이도:** 초보-고수
-- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZgHKC6bkQaNL4AP109PuXh)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EB%B9%A0%EB%A5%B8%20%EC%BD%94%EB%94%A9%20%EC%8B%A4%EB%A0%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%84%A4%EA%B3%84%EB%8F%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0_plantUML%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)
-- **내용:** 빠르게 실력 향상을 하려면 코딩을 많이 하는 것만큼 중요한 게 있습니다. 그것은 코드 흐름도를 설계하는 실력입니다. 소프트웨어, 알고리즘의 구조적인 흐름도를 설계할 수 있는 기본기가 잡혀야만, 코딩 실력이 몇배로 빠르게 향상될 수 있습니다. 그리고 설계한 흐름도로 인하여, 코드 오류가 줄어들고 유지보수가 편리해집니다. 그러므로 PlantUML 기능을 이용해서 알고리즘 흐름도 설계하는 방법의 기본기를 배웁니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>백테스팅 내 패던 검증하기</b></summary>
-
-- **분야:** 주식 시스템
-- **난이도:** 중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaRsQOJY8DB44bGdd7lVO4h)  
-- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/backtesting)  
-- **내용:** 프로그램 동산이 사용하던 백테스팅 코딩 방법을 알려줍니다.<br>HTS의 차트 csv파일로 진행되며 패턴을 찾고 수익 검증을 하는데 기반이 되는 중요한 자료입니다. 연봉부터 일봉, 분봉... 틱봉까지 데이터의 시간만 알 수 있다면 다양하게 사용될 수 있습니다. 그 기반을 코딩으로 배웁니다.              
-
-</details>
-<br>
-
-<details>
- <summary><b>24시간 주식매매 자동화 구축하기[open API+]</b></summary>
-
-- **분야:** 주식 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)  
-- **예제파일:** [열람하기 🔗](https://github.com/programgarden/book)  
-- **내용:** 주식 자동화 시스템을 구축하는데 필요한 로직을 코딩합니다. 영상은 시중 교재("손가락 하나 까딱하지 않는 주식 거래 시스템 구축")의 참고용으로 학습하면 좋습니다.             
-
-</details>
-<br>
-
-<details>
- <summary><b>class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지</b></summary>
-
-- **분야:** 주식 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [class101 보기(class101 회원만 시청 가능) 🔗](https://class101.net/products/GNNMfyIfdxmlByRtMbdI?utm_campaign=share_feature&utm_content=share_feature&utm_medium=referral&utm_source=link&utm_term=all)  
-- **예제파일:** [다운받기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/class101_%EC%8B%A4%EC%A0%84%ED%88%AC%EC%9E%90%EB%A1%9C%20%EC%9E%AC%EB%B0%8C%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)
-- **내용:** class101에 올렸던 실전 투자로 코딩 연습을 해보는 강의입니다. 본 강의는 class101에서 수강 가능하며 초보자 눈높이 맞춰서 파이썬 기초부터 자동화 구조 잡는 것까지 다이렉트로 진행됩니다. 그리고 실전 계좌로 소량의 돈으로 매수/매도 테스트도 해보기 떄문에, 긴장감과 재미가 동반되는 강의입니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>프로그램 동산 파이썬의 정석</b></summary>
-
-- **분야:** 단순 코딩
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaG_LeSAHpr4opgz0HebcwJ)  
-- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/python_basic)
-- **내용:** 파이썬(코딩 언어)을 금융의 관점에서 상세하게 배웁니다. 문제풀이도 많아서 다른 강의와 병행 학습하면 좋습니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>해외선물 시스템을 처음 접하는 분들을 위한 강의</b></summary>
-
-- **분야:** 해외선물 이론
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenY9XcxCMJyNCVOghZRyQYG6)  
-- **예제파일:** ❌
-- **내용:** 해외선물을 처음 접하는 분들을 위한 강의입니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>코인 24시간 매매 시스템 만들기</b></summary>
-
-- **분야:** 코인 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenb_spJa7NEoS-oqNo9RiF-_)  
-- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/coin_basic)
-- **내용:** 오픈소스로 제공되는 코인 거래소들의 api 사용법을 익힙니다. 거래소들의 api는 비슷한 형태를 가지고 있기 때문에 반복적인 설명으로 진행되고 거래소들의 특징들을 살펴봅니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기</b></summary>
-
-- **분야:** 데이터 분석
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenY6b92dMmEENm4Wu43IeaW9)  
-- **예제파일:** ❌
-- **내용:** 데이터를 나만의 다양한 시각화 차트로 구현하는 방법을 배웁니다. 코딩을 모르는 초급자 대상으로 만들었고 강의 진행 동안 코딩을 사용하지 않도록 최대한 노력하며 제작한 강의입니다. 그만큼 코딩 없이도 멋진 시각화를 구현 할 수 있으며, 만약 엑셀로 데이터를 수집하신다면, 강의를 마스터하고 좀 더 확장해서 공부하고 저장소로도 잘 활용 할 수 있습니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>AI 자율주행 자동차 만들기</b></summary>
-
-- **분야:** 하드웨어
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenYnY3BA2dwZfMZB9U2VphYg)  
-- **예제파일:** ❌
-- **재료:** 키트 별도 구매
-- **내용:** AI 자율주행 자동차 키트를 이용해서 왕초보 개념부터 AI 동작 원리까지 전반적으로 설명하는 최고의 강의입니다. 파이썬 프로그램 언어 기초가 요구되며 어린이부터 어른까지 모두가 즐길 수 있는 내용입니다.
-
-</details>
-<br>
-
-
-<details>
- <summary><b>텔레그램으로 증권시스템 제어하기</b></summary>
-
-- **기타:** 삭제된 강의
-- **분야:** 메신저 시스템
-- **난이도:** 초보-고수
-- **영상제공:** [유튜브 보기 🔗](https://youtu.be/mlKcW2dT9QQ)  
-- **예제파일:** [열람하기 🔗](https://github.com/programgarden/youtube/tree/master/telegram_hard_version)
-- **내용:** ~~텔레그램으로 증권 시스템 제어 방법을 살펴봅니다.~~
-
-</details>
-<br>
-
-
-<details>
- <summary><b>24시간 주식매매 자동화 구축 핵심 정리</b></summary>
-
-- **기타:** 기간 한정 이벤트
-- **분야:** 주식 시스템
-- **난이도:** 초보-고수
-- **영상제공:** ❌
-- **예제파일:** ❌
-- **내용:** ~~"손가락 하나 까딱하지 않는 주식 거래 시스템 구축" 및 유튜브 강의의 복잡한 <br> 로직을 쉽게이해할 수 있도록 핵심을 설명하는 2시간 강의입니다.~~
-
-</details>
-<br>
-<br>
-
 
 <!--
 
@@ -302,53 +118,8 @@
 ## 🐥 초보자를 위한 짦은 영상, 유튜브 강의
 <p> 강의 수강할때 알아두면 좋은 이론들입니다. </p>
 
-<details>
- <summary><b>CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리!</b></summary>
+[이론 강의 목록 보기 🔗](https://programgarden.net/collections/basic_lecture)
 
-- **분야:** 소프트웨어
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtu.be/a6lcOzneGzo?si=rweGC5Tqi0YAXVEK)  
-- **예제파일:** ❌
-- **내용:** 코딩하고 실행할 때 데이터 처리시 메모리 세팅이 이루어지는 원리를 배웁니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트</b></summary>
-
-- **분야:** 소프트웨어
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtu.be/XHxdw9NoyR4?si=35FLSVMdqHTB4_qN)  
-- **예제파일:** ❌
-- **내용:** 코딩 실력을 빠르게 늘리고 싶은 분들 그리고 IT 강의력을 높이고 싶은 강사들을 위한 노하우 내용입니다.
-
-</details>
-<br>
-
-<details>
- <summary><b>데이터 송수신하는 Rest의 탄생과 원리</b></summary>
-
-- **분야:** 소프트웨어
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtu.be/8NNsTGaXgJU?si=1MYZ6N20HDqw6rOy)  
-- **예제파일:** ❌
-- **내용:** 증권 프로그램을 배울때 Rest방식의 역사를 알아두면 데이터 송수신 원리를 파악하는데 큰 도움이 됩니다. Rest의 탄생과 원리를 배워봐요.
-
-</details>
-<br>
-
-<details>
- <summary><b>Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기</b></summary>
-
-- **분야:** 소프트웨어
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtu.be/tgIeRK3Ckdo?si=0unONx4w-IaTYZ-S)  
-- **예제파일:** ❌
-- **내용:** 증권 시스템은 동시성 기반으로 동작합니다. 동시성에는 Async가 대표적입니다. 그렇다면 Async가 만들어진 이유는 무엇일까요? 그 역사를 배워봅니다.
-
-</details>
-<br>
 <br>
 
 
@@ -362,37 +133,12 @@
 프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
 </p>
 
-<details open>
- <summary><b>증권 시스템 구조와 스스로 확장을 가능하게 배우는 세미나</b></summary>
+### 세미나/모임 목록 보기
+[🩷후원자(github 스폰서) 전용 목록 페이지 🔗](https://litt.ly/pgsponsor)
 
-- 온라인 / 오프라인 세미나를 준비중입니다. 시스템 트레이딩, AI, DB 등, 매월 다양하게 진행 예정입니다. 수천명의 학습자들 중에, 후원자 분들은 무료 참석이 가능하도록 준비중입니다.
-- [후원자 🔗](https://github.com/programgarden#%EF%B8%8F-%EC%8A%A4%ED%8F%B0%EC%84%9C-%EB%93%B1%EB%A1%9D)만 참석하는 세미나입니다.
-- 3월,4월,5월... 매월 다른 주제로 온라인 / 오프라인 진행 예정
-- 구성 완료되면, 추후 이메일 공지
+[💫일반인 전용 목록 페이지 🔗](https://litt.ly/programgarden)
 
 
-</details>
-<br>
-
-<details open>
- <summary><b>공부중인 내용 서로 피드백 해주는 모임</b></summary>
-
-- **참여조건:** IT를 공부중인 누구나
-- **진행일자:** 
-  - [6회차] 2024년 4월 말 예정 (추후 이메일 공지),
-  - [5회차] 2024년 3월 말 예정 (추후 이메일 공지),
-  - [4회차] 2024년 2월 24일, 오전11시-오후1시, 오프라인
-- **참여비:** [후원자 🔗](https://github.com/programgarden#%EF%B8%8F-%EC%8A%A4%ED%8F%B0%EC%84%9C-%EB%93%B1%EB%A1%9D)는 무료
-- **인원:** 최대 5명
-- **참여신청:** 
-  - [비후원자는 카페를 통해서 신청 🔗](https://cafe.naver.com/programgarden)
-  - [후원자 전용 신청서 🔗](https://forms.gle/5iBvYaoRM6z8vJND9)
-- **상세내용:** [상세 내용 보기 🔗](https://cafe.naver.com/programgarden/4169)
-- **모임 주제:** "지금 공부하는 내용을 다른 이들에게 쉽게 설명 할 수 있습니까?" 
-프로그래밍의 빠른 실력 향상과 뛰어난 알고리즘 구축 능력을 가지기 위해서는 본인이 연구(공부)중인 내용을 타인에게 쉽게 설명 할 수 있어야 합니다. 그렇게 시작한 스터디 모임! 각자 돌아가며 설명충이 되어 공부 중인 내용을 모두에게 전달하고 피드백 받고 인사이트를 공유하는 모임입니다.
-- **모임장소:** [상세 내용에서 확인 🔗](https://cafe.naver.com/programgarden/4169)
-
-</details>
 <br>
 
 
