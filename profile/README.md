@@ -33,15 +33,7 @@
 <br>
 
 <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
-오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
-<br>
-
-<a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
-강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브 🔗](https://github.com/programgarden)
-<br>
-
-<a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
-프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산 🔗](https://programgarden.net)
+강의/세미나/모임/정보/Q&A 공유하며 공부하는 학습자 커뮤니티입니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
 <br>
 
 </p>
@@ -61,38 +53,6 @@
 [후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
 <br>
 <br>
-
-<details open>
-  <summary><b>스폰서 등록하는 방법 보기 🔗</b></summary>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png?v=1704040296" />
- <br>
- <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 버튼을 클릭하거나, 상단의 Sponsor 버튼을 클릭합니다.
- <br>
- <br>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_2.png?v=1704040297" />
- sponsor tier(등급)을 확인하고 Select 버튼을 누릅니다.
- <br>
- <br>
- <br>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_3.png?v=1704040297" />
- <br>
- 처음 이용자는 주소지를 입력합니다.
- <br>
- <br>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_4.png?v=1704040297" />
- <br>
- 처음 이용자는 결제 카드를 등록합니다.
- <br>
- <br>
- <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_5.png?v=1704040297" />
- <br>
-모든 등록이 완료되면, 스폰서로 등록 할 수 있습니다. 최종적으로 후원자만 열람이 가능한 예제파일에 접근 할 수 있습니다. 
-
-[예제파일 열람하기 🔗](https://github.com/programgarden/stock_sponsors)
-
-🚫 스폰서가 아니면 404에러로 페이지에 접근 할 수 없습니다.
-
-</details>
 <br>
 
 
@@ -130,11 +90,11 @@
 -->
 ## 🌎 온라인/오프라인 세미나, 네트워킹 목록
 <p>
-프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
+프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 스폰서 분들에게는 네트워킹 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
 </p>
 
 ### 세미나/모임 목록 보기
-[🩷후원자(github 스폰서) 전용 목록 페이지 🔗](https://litt.ly/pgsponsor)
+[🩷스폰서(github 후원자) 전용 목록 페이지 🔗](https://litt.ly/pgsponsor)
 
 [💫일반인 전용 목록 페이지 🔗](https://litt.ly/programgarden)
 
@@ -159,38 +119,14 @@
 <br>
 
 ## 💻 강의에서 활용 중인 언어와 기능들
-### 프로그래밍 언어
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python)](https://github.com/programgarden)
-
-
-### 프론트 언어
 [![My Skills](https://skillicons.dev/icons?i=webpack,css,qt,html)](https://github.com/programgarden)
-
-
-### 백앤드 언어
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/programgarden)
-
-
-### 모바일 언어
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://github.com/programgarden)
-
-
-### DB 언어
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://github.com/programgarden) <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-
-
-### 데이터 시각화
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-
-### DevOps
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://github.com/programgarden)
-
-### Backend as a Service(BaaS)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://github.com/programgarden)
-
-### 디자인 툴
 [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://github.com/programgarden)
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-
-### 그 외 소프트웨어
 [![My Skills](https://skillicons.dev/icons?i=postman,github)](https://github.com/programgarden)
