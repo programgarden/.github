@@ -81,6 +81,15 @@
 
 <br>
 
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/2024-02-01_12.46.26_480x480.png?v=1706716011" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/jyj_pic_1_480x480.jpg?v=1706716046" />
+
+
+<br>
+
 <img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/9_480x480.gif?v=1706713687" />
 
 </details>
