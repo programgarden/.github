@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" height="300px" src="https://media.tenor.com/ztRyBgFCYDEAAAAi/buy-degen.gif" />
+ <img align="center" height="300px" src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" />
 
  <br/>
  <h1 align="center">PROGRAM GARDEN</h1>
@@ -45,10 +45,50 @@
 
 -->
 ## ❤️ 스폰서 등록
-<b>스폰서 등록 후 더 다양한 학습 자료 제공과 세미나/모임에 참석 권한이 주어집니다.</b><br>
-<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
-[후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
+<b>스폰서(후원자) 등록 후 더 다양한 학습 자료 제공과 세미나/모임에 참석 권한이 주어집니다.</b><br>
+
+<details open>
+<summary>스폰서(후원자)가 무엇인가요?🔗</summary>
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/2_480x480.gif?v=1706713355" />
+
 <br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/3_480x480.gif?v=1706713385" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/4_480x480.gif?v=1706713418" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/f35d6b3b0e2aff59ead6d764628891f0_480x480.png?v=1706717195" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/5_480x480.gif?v=1706713465" />
+    
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/6_480x480.gif?v=1706713496" />
+    
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/7_480x480.gif?v=1706713547" />
+    
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/8_480x480.gif?v=1706713593" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/9_480x480.gif?v=1706713687" />
+
+</details>
+<br>
+
+<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+
+[후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
 <br>
 <br>
 
@@ -90,10 +130,7 @@
 프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 스폰서 분들에게는 네트워킹 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
 </p>
 
-### 세미나/모임 목록 보기
-[🩷스폰서(github 후원자) 전용 목록 페이지 🔗](https://litt.ly/pgsponsor)
-
-[💫일반인 전용 목록 페이지 🔗](https://litt.ly/programgarden)
+[💫 다가오는 온라인 / 오프라인 일정 보기 🔗](https://litt.ly/programgarden)
 
 
 <br>
