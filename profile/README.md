@@ -49,35 +49,43 @@
 
 <details open>
 <summary>스폰서(후원자)가 무엇인가요?🔗</summary>
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/2_480x480.gif?v=1706713355" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/2_f70325a2-d952-4254-a676-fa80083f193a_600x600.gif?v=1706755747" />
 
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/3_480x480.gif?v=1706713385" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/3_6d257ee1-718b-4663-9224-0c62b1dc54f5_600x600.gif?v=1706755747" />
 
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/4_480x480.gif?v=1706713418" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/4_3eaf2fa9-7187-4b57-b368-df8c03d155a5_600x600.gif?v=1706755747" />
 
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/f35d6b3b0e2aff59ead6d764628891f0_480x480.png?v=1706717195" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/7_ec3c6ffa-f7a9-4d63-8e3e-f2332469fe96_600x600.gif?v=1706755747" />
 
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/5_480x480.gif?v=1706713465" />
-    
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/8_8ef7d330-84ee-46fe-9a1a-0fc3e38d5483_600x600.gif?v=1706755747" />
+
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/6_480x480.gif?v=1706713496" />
-    
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/9_e967280f-496b-441d-8f8f-78398cc18a38_600x600.gif?v=1706755747" />
+
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/7_480x480.gif?v=1706713547" />
-    
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/10_600x600.gif?v=1706755747" />
+
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/8_480x480.gif?v=1706713593" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/11_600x600.gif?v=1706755747" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/12_600x600.gif?v=1706755747" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/13_600x600.gif?v=1706755747" />
 
 <br>
 
@@ -87,10 +95,19 @@
 
 <img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/jyj_pic_1_480x480.jpg?v=1706716046" />
 
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/14_600x600.gif?v=1706755747" />
 
 <br>
 
-<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/9_480x480.gif?v=1706713687" />
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/15_600x600.gif?v=1706755747" />
+
+<br>
+
+<img align="center" src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/16_600x600.gif?v=1706755747" />
+
+<br>
 
 </details>
 <br>
