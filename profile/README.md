@@ -52,8 +52,8 @@
 후원자 등록 방법 정리
 
 -->
-## ❤️ 스폰서 등록
-<b>학습 자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
+## ❤️ 학습자료(예제코드,교재) 받는 방법
+<b>학습자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
 <span>(스폰서가 아니면 페이지에 접근 할 수 없습니다.)</span>
 <br>
 <br>
@@ -105,6 +105,19 @@
 <p>
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
+
+<details open>
+ <summary><b>증권앱 만들기 전에 꼭 알아야하는 Dart기초</b></summary>
+ <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L" target="_blank"><img src="https://img.youtube.com/vi/WJK-FECgrZI/0.jpg" width="200px" /></a>
+
+- **완강여부:** 진행중
+- **분야:** 주식앱
+- **난이도:** 초보-고수
+- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%A0%84%EC%97%90%20%EA%BC%AD%20%EC%95%8C%EC%95%84%EC%95%BC%ED%95%98%EB%8A%94%20Dart%EA%B8%B0%EC%B4%88/dart_basic)
+- **내용:** 비전공자를 위한 증권앱 강의 수강에 앞서 꼭 시청해야 하는 기초 강의입니다. Dart라는 언어를 주식 코딩에 맞춰서 알려주는 굉장히 중요한 강의입니다. 본 강의를 완강하면 증권앱 강의를 수강 할 수 있는 실력이 갖춰집니다.
+</details>
+<br>
 
 <details open>
  <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</b></summary>
