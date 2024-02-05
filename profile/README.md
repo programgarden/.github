@@ -52,18 +52,17 @@
 후원자 등록 방법 정리
 
 -->
-## ❤️ 학습자료(예제코드,교재) 받는 방법
-<b>학습자료는 스폰서(후원자)에게만 제공됩니다.</b><br>
-<span>(스폰서가 아니면 페이지에 접근 할 수 없습니다.)</span>
-<br>
-<br>
-<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+## ❤️ 유튜브 강의자료(예제코드,교재) 받는 방법
 
-[후원하고 예제코드 받기 🔗](https://github.com/sponsors/programgarden)
+<b>학습자료는 스폰서(후원자) 등록 후 받을 수 있습니다.<b>
+<br>
+
+<a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하고 예제코드 받기-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+
 <br>
 
 <details open>
-  <summary><b>스폰서 등록하는 방법 보기 🔗</b></summary>
+  <summary><b>후원자 등록하는 방법 보기 🔗</b></summary>
  <img src="https://cdn.shopify.com/s/files/1/0748/4289/8740/files/sponsor_method_1.png?v=1704040296" />
  <br>
  <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 버튼을 클릭하거나, 상단의 Sponsor 버튼을 클릭합니다.
@@ -101,7 +100,7 @@
 온라인 강의 목록
 
 -->
-## 🛜 온라인(ONLINE) 유튜브 강의
+## 🕹️ 온라인(ONLINE) 유튜브 강의
 <p>
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
