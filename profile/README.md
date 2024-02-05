@@ -106,7 +106,7 @@
 </p>
 
 <details open>
- <summary><b>증권앱 만들기 전에 꼭 알아야하는 Dart기초</b></summary>
+ <summary><b>증권앱 만들기 전에 꼭 알아야하는 Dart기초 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L" target="_blank"><img src="https://img.youtube.com/vi/WJK-FECgrZI/0.jpg" width="200px" /></a>
 
 - **완강여부:** 진행중
@@ -119,7 +119,7 @@
 <br>
 
 <details open>
- <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원</b></summary>
+ <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE" target="_blank"><img src="https://img.youtube.com/vi/EsadE6OR1Bo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 진행중
@@ -133,7 +133,7 @@
 <br>
 
 <details open>
- <summary><b>주식코딩 왕초보도 마스터하기</b></summary>
+ <summary><b>주식코딩 왕초보도 마스터하기 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf" target="_blank"><img src="https://img.youtube.com/vi/8RliFhxPf4k/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -148,7 +148,7 @@
 <br>
 
 <details open>
- <summary><b>해외선물 초단타 스캘핑 자동화 매매</b></summary>
+ <summary><b>해외선물 초단타 스캘핑 자동화 매매 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5" target="_blank"><img src="https://img.youtube.com/vi/nZacmWe8h2A/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -162,7 +162,7 @@
 <br>
 
 <details open>
- <summary><b>증권 데이터베이스</b></summary>
+ <summary><b>증권 데이터베이스 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY" target="_blank"><img src="https://img.youtube.com/vi/6iMU62FQfoA/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -176,7 +176,7 @@
 <br>
 
 <details open>
- <summary><b>왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기</b></summary>
+ <summary><b>왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기 🔗</b></summary>
 <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZgHKC6bkQaNL4AP109PuXh" target="_blank"><img src="https://img.youtube.com/vi/hMOEqGSTevc/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -190,7 +190,7 @@
 <br>
 
 <details>
- <summary><b>백테스팅 내 패던 검증하기</b></summary>
+ <summary><b>백테스팅 내 패던 검증하기 🔗</b></summary>
 <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZgHKC6bkQaNL4AP109PuXh" target="_blank"><img src="https://img.youtube.com/vi/0gZTy1VgMTI/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -204,7 +204,7 @@
 <br>
 
 <details>
- <summary><b>24시간 주식매매 자동화 구축하기[open API+]</b></summary>
+ <summary><b>24시간 주식매매 자동화 구축하기[open API+] 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS" target="_blank"><img src="https://img.youtube.com/vi/K9x3HDSdrjo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -218,7 +218,7 @@
 <br>
 
 <details>
- <summary><b>class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지</b></summary>
+ <summary><b>class101_주식 자동화 코딩을 실전투자로 재밌게 배우기, 왕초보부터 고수까지 🔗</b></summary>
 <a href="https://class101.net/products/GNNMfyIfdxmlByRtMbdI?utm_campaign=share_feature&utm_content=share_feature&utm_medium=referral&utm_source=link&utm_term=all" target="_blank"><img src="https://programgarden.net/cdn/shop/files/101.png?v=1706456038&width=990" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -232,7 +232,7 @@
 <br>
 
 <details>
- <summary><b>프로그램 동산 파이썬의 정석</b></summary>
+ <summary><b>프로그램 동산 파이썬의 정석 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenaG_LeSAHpr4opgz0HebcwJ" target="_blank"><img src="https://img.youtube.com/vi/g320D427-cY/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -246,7 +246,7 @@
 <br>
 
 <details>
- <summary><b>코인 24시간 매매 시스템 만들기</b></summary>
+ <summary><b>코인 24시간 매매 시스템 만들기 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenb_spJa7NEoS-oqNo9RiF-_" target="_blank"><img src="https://img.youtube.com/vi/IYXnW7-5vmM/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -260,7 +260,7 @@
 <br>
 
 <details>
- <summary><b>코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기</b></summary>
+ <summary><b>코딩 몰라도 나만의 증권 데이터 시각화 공간 만들기 🔗</b></summary>
 <a href="https://youtube.com/playlist?list=PLDtzZPtOGenY6b92dMmEENm4Wu43IeaW9" target="_blank"><img src="https://img.youtube.com/vi/GOYaW0gbqtU/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -274,7 +274,7 @@
 <br>
 
 <details>
- <summary><b>AI 자율주행 자동차 만들기</b></summary>
+ <summary><b>AI 자율주행 자동차 만들기 🔗</b></summary>
 <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenYnY3BA2dwZfMZB9U2VphYg" target="_blank"><img src="https://img.youtube.com/vi/UYvIGp8K3mo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -290,7 +290,7 @@
 
 
 <details>
- <summary><b>텔레그램으로 증권시스템 제어하기</b></summary>
+ <summary><b>텔레그램으로 증권시스템 제어하기 🔗</b></summary>
 
 - **완강여부:** 삭제된 강의
 - **분야:** 메신저 시스템
@@ -304,7 +304,7 @@
 
 
 <details>
- <summary><b>24시간 주식매매 자동화 구축 핵심 정리</b></summary>
+ <summary><b>24시간 주식매매 자동화 구축 핵심 정리 🔗</b></summary>
 
 - **완강여부:** 기간 한정 이벤트
 - **분야:** 주식 시스템
@@ -327,7 +327,7 @@
 <p> 강의 수강할때 알아두면 좋은 이론들입니다. </p>
 
 <details>
- <summary><b>CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리!</b></summary>
+ <summary><b>CPU, 코어, 쓰레드가 이루어지는 과정? 한방에 정리! 🔗</b></summary>
 <a href="https://youtu.be/a6lcOzneGzo?si=rweGC5Tqi0YAXVEK" target="_blank"><img src="https://img.youtube.com/vi/a6lcOzneGzo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -341,7 +341,7 @@
 <br>
 
 <details>
- <summary><b>코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트</b></summary>
+ <summary><b>코딩 강의 수강 후에 스스로 구축 못하는 수강생 위한 인사이트 🔗</b></summary>
 <a href="https://youtu.be/XHxdw9NoyR4?si=35FLSVMdqHTB4_qN" target="_blank"><img src="https://img.youtube.com/vi/XHxdw9NoyR4/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -355,7 +355,7 @@
 <br>
 
 <details>
- <summary><b>데이터 송수신하는 Rest의 탄생과 원리</b></summary>
+ <summary><b>데이터 송수신하는 Rest의 탄생과 원리 🔗</b></summary>
 <a href="https://youtu.be/8NNsTGaXgJU?si=1MYZ6N20HDqw6rOy" target="_blank"><img src="https://img.youtube.com/vi/8NNsTGaXgJU/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
@@ -369,7 +369,7 @@
 <br>
 
 <details>
- <summary><b>Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기</b></summary>
+ <summary><b>Async는 무엇이며 왜 만들어 졌을까? iterator 개념부터 훑어보기 🔗</b></summary>
 <a href="https://youtu.be/tgIeRK3Ckdo?si=0unONx4w-IaTYZ-S" target="_blank"><img src="https://img.youtube.com/vi/tgIeRK3Ckdo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 완강
