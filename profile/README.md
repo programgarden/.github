@@ -105,11 +105,23 @@
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
 
+<details>
+ <summary><b>비전공자를 위한 증권 어플리케이션 개발의 시작! 🔗</b></summary>
+
+- **완강여부:** 강의 제작중
+- **분야:** 주식앱
+- **난이도:** 초보-고수
+
+현재 강의 제작중입니다. 업로드 진행되면 유튜브, 네이버카페에 공지 올리겠습니다.
+
+</details>
+<br>
+
 <details open>
  <summary><b>증권앱 만들기 전에 꼭 알아야하는 Dart기초 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L" target="_blank"><img src="https://img.youtube.com/vi/WJK-FECgrZI/0.jpg" width="200px" /></a>
 
-- **완강여부:** 진행중
+- **완강여부:** 완강
 - **분야:** 주식앱
 - **난이도:** 초보-고수
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L)
