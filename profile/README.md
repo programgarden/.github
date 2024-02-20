@@ -105,15 +105,16 @@
 유튜브에서 온라인 강의를 시청하고 커뮤니티에서 다양한 구독자들과 같이 공부하고 발전해 보세요. 프로그램 동산의 체계적인 커뮤니티 활성화는 코딩의 즐거움을 극대화 시켜줍니다!
 </p>
 
-<details>
- <summary><b>비전공자를 위한 증권 어플리케이션 개발의 시작! 🔗</b></summary>
+<details open>
+ <summary><b>증권앱 코딩의 시작 flutter 왕기초 🔗</b></summary>
+ <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenYmVcjnT62SgRhteJIDRzHY" target="_blank"><img src="https://img.youtube.com/vi/g8VyF8hOcDc/0.jpg" width="200px" /></a>
 
-- **완강여부:** 강의 제작중
+- **완강여부:** 진행중
 - **분야:** 주식앱
 - **난이도:** 초보-고수
-
-현재 강의 제작중입니다. 업로드 진행되면 유튜브, 네이버카페에 공지 올리겠습니다.
-
+- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenYmVcjnT62SgRhteJIDRzHY)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%EC%95%B1%20%EC%BD%94%EB%94%A9%EC%9D%98%20%EC%8B%9C%EC%9E%91%20flutter%20%EC%99%95%EA%B8%B0%EC%B4%88)
+- **내용:** 모바일로 제어가 가능한 증권앱을 최적화된 핵심만 가르치는 강의이며, Flutter라는 앱개발 프레임워크를 사용합니다. 그리고 코딩을 접해보지 못한 분들과 전문가들도 수강 가능한 폭 넓은 기초 강의입니다.
 </details>
 <br>
 
