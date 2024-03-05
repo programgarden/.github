@@ -132,15 +132,15 @@
 <br>
 
 <details open>
- <summary><b>주식,ui,저장소,클라우드,원격제어,서비스까지 처음부터 끝까지 전부 다 해보는 올인원 🔗</b></summary>
+ <summary><b>운영체제 제한 없는 증권 Rest API 코딩 배우기 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE" target="_blank"><img src="https://img.youtube.com/vi/EsadE6OR1Bo/0.jpg" width="200px" /></a>
 
 - **완강여부:** 진행중
 - **분야:** 주식 시스템
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90)
-- **내용:** RestAPI라는 방식을 이용해서 초보자도 쉽게 증권 시스템을 접할 수 있게 진행합니다. 그리고 해당 강의는 코딩에 집중하기보단 증권 시스템을 설계하는 방법에서 서비스까지의 필요한 것들이 무엇인지 빠르게 훑어보는 초보자 대상 강의입니다. 빠르게 큰 흐름을 잡을 수 있습니다.
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)]([https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%2Cui%2C%EC%A0%80%EC%9E%A5%EC%86%8C%2C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%2C%EC%9B%90%EA%B2%A9%EC%A0%9C%EC%96%B4%2C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80%20%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%A0%84%EB%B6%80%20%EB%8B%A4%20%ED%95%B4%EB%B3%B4%EB%8A%94%20%EC%98%AC%EC%9D%B8%EC%9B%90](https://github.com/programgarden/stock_sponsors/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%A0%9C%ED%95%9C%20%EC%97%86%EB%8A%94%20%EC%A6%9D%EA%B6%8C%20RestAPI%20%EC%BD%94%EB%94%A9%20%EB%B0%B0%EC%9A%B0%EA%B8%B0))
+- **내용:** 윈도우, 맥, 리눅스 등, 운영체제에 제한없이 어디서든 코딩이 가능한 RestAPI 방식으로 증권 데이터를 다뤄 봅니다. 초보자도 쉽게 배울 수 있는 강의입니다.
 
 </details>
 <br>
