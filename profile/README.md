@@ -133,7 +133,7 @@
 
 <details open>
  <summary><b>운영체제 제한 없는 증권 Rest API 코딩 배우기 🔗</b></summary>
- <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE" target="_blank"><img src="https://img.youtube.com/vi/EsadE6OR1Bo/0.jpg" width="200px" /></a>
+ <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE" target="_blank"><img src="https://img.youtube.com/vi/A_471KIAeYk/0.jpg" width="200px" /></a>
 
 - **완강여부:** 진행중
 - **분야:** 주식 시스템
