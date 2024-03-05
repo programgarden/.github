@@ -135,7 +135,7 @@
  <summary><b>운영체제 제한 없는 증권 Rest API 코딩 배우기 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE" target="_blank"><img src="https://img.youtube.com/vi/A_471KIAeYk/0.jpg" width="200px" /></a>
 
-- **완강여부:** 진행중
+- **완강여부:** 완강
 - **분야:** 주식 시스템
 - **난이도:** 초보
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)
@@ -184,6 +184,20 @@
 - **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
 - **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 - **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
+
+</details>
+<br>
+
+<details open>
+ <summary><b>코딩 없니 증권 데이터 테스트 방법 Postman 배우기 🔗</b></summary>
+ <a href="https://youtube.com/playlist?list=PLDtzZPtOGenbiXyvMTAV70VXnccmqllu0&si=3LzdZgtbbU4AX7l4" target="_blank"><img src="https://img.youtube.com/vi/L94-rd5_drE/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** 주식 시스템
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenbiXyvMTAV70VXnccmqllu0&si=3LzdZgtbbU4AX7l4)
+- **예제파일:** ❌
+- **내용:** 증권사의 데이터 송수신을 파이썬으로 구축하고 테스트하기 번거로우셨죠? 포스트맨을 이용해서 코딩 전에 데이터 검증하는 방법을 소개합니다.
 
 </details>
 <br>
