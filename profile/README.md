@@ -1,18 +1,13 @@
 <p align="center">
- <img align="center" height="300px" src="https://media.tenor.com/ztRyBgFCYDEAAAAi/buy-degen.gif" />
-
- <br/>
- <h1 align="center">PROGRAM GARDEN</h1>
+ <img align="center" src="https://github.com/programgarden/.github/blob/main/images/youtube-channer.png" />
 </p>
 
-<p align='center'>
- <a href="https://instagram.com/programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programgarden" height="30" width="40" /></a>
- <a href="https://www.youtube.com/@programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programgarden" height="30" width="40" /></a>
-</p>
+<h3 align="center">초보부터 고수까지<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 학습 커뮤니티</h3>
 
-<h3 align="center">초보자부터 고수까지<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 학습 커뮤니티</h3>
 <p align="center">
- <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
+ <a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/고퀄 무료강의 들으러 가기-e52d27.svg?&style=for-the-badge&logo=youtube&logoColor=white" width=350 height=50/></a><br>
+ <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/깃허브 후원하고 혜택 누리기-181717.svg?&style=for-the-badge&logo=github&logoColor=white" width=350 height=50/></a><br>
+ <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/네이버 카페에서 친해져요-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" width=350 height=50/></a><br>
 </p>
 
 
@@ -24,28 +19,6 @@
 </p>
 <br>
 
-## 📖 교육 형태
-
-<p align="left">
-
-<a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25/></a>
-유튜브에서 온라인 강의 수강을 제공합니다. [@유튜브 🔗](https://www.youtube.com/@programgarden)
-<br>
-
-<a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
-오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
-<br>
-
-<a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
-강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브 🔗](https://github.com/programgarden)
-<br>
-
-<a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
-프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산 🔗](https://programgarden.net)
-<br>
-
-</p>
-<br>
 
 <!--
 
