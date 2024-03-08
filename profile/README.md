@@ -1,13 +1,13 @@
 <p align="center">
- <img align="center" src="https://github.com/programgarden/.github/blob/main/images/youtube-channer.png" />
+ <img align="center" src="https://github.com/programgarden/.github/blob/main/images/youtube-channel.png" />
 </p>
 
-<h3 align="center">초보부터 고수까지<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 학습 커뮤니티</h3>
+<h3 align="center">취준생, 이직을 꿈꾸는 직장인, 재태크 초보부터 전문가까지!<br>증권 시스템 자동화 알고리즘, 코딩, DB, UI/UX, 서버, AI 인공지능 등<br>모두 즐기는 학습 커뮤니티</h3>
 
 <p align="center">
- <a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/고퀄 무료강의 들으러 가기-e52d27.svg?&style=for-the-badge&logo=youtube&logoColor=white" width=350 height=50/></a><br>
- <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/깃허브 후원하고 혜택 누리기-181717.svg?&style=for-the-badge&logo=github&logoColor=white" width=350 height=50/></a><br>
- <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/네이버 카페에서 친해져요-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" width=350 height=50/></a><br>
+ <a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://github.com/programgarden/.github/blob/main/images/btn-youtube.png" width=350/></a><br>
+ <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://github.com/programgarden/.github/blob/main/images/btn-github.png" width=350/></a><br>
+ <a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://github.com/programgarden/.github/blob/main/images/btn-naver.png" width=350/></a><br>
 </p>
 
 
@@ -15,7 +15,8 @@
 
 ## ✨ 프로그램 동산 이란?
 <p align="left">
-프로그램 동산의 유튜브 코딩 강의는 수만 명의 시청자들이 즐기는, 실생활에 바로 적용할 수 있는 코딩 기술을 초보부터 전문가 수준으로 만들 수 있도록 쉽게 알려주는 인기 유튜버입니다. 증권, 인공지능 등 다양한 분야의 코딩을 배우며, 코딩의 즐거움과 흥미, 설렘을 느낄 수 있습니다. 누구나 코딩을 통해 자신만의 소프트웨어를 만들 수 있음을 보여주는 프로그램 동산은 코딩을 평생 취미로 삼을 수 있게 하는 흥미진진한 주제들로 가득합니다.
+다양한 분야의 코딩을 실생활에 바로 적용할 수 있도록 고급 코딩 기술을 무료로 쉽게 알려주는 유튜브입니다. 누구나 코딩을 통해 자신만의 소프트웨어를 만들 수 있다는것을 보여주는 프로그램 동산의 영상들은 코딩을 평생의 취미로 삼을 수 있게하는 흥미진진한 주제들로 가득합니다.<br>
+현재 업로드되어있는 증권 시스템 자동화 알고리즘, DB, 서버 외에도 앞으로 업로드 될 인공지능, UI/UX 디자인분야 등 다양한 전문분야들도 기대해주세오.
 </p>
 <br>
 
