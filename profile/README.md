@@ -455,7 +455,9 @@
 
 ### 디자인 툴
 [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://github.com/programgarden)
- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
+ <a href="https://github.com/programgarden" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
+ <a href="https://github.com/programgarden" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="sketch" width="40" height="40"/> </a>
+ 
 
 ### 그 외 소프트웨어
 [![My Skills](https://skillicons.dev/icons?i=postman,github)](https://github.com/programgarden)
