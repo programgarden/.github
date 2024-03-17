@@ -382,6 +382,20 @@
 
 </details>
 <br>
+
+<details>
+ <summary><b>증권 코딩 기초지식! 동시성 처리 async의 task 개념 🔗</b></summary>
+<a href="https://www.youtube.com/watch?v=pE88EQZkR2U" target="_blank"><img src="https://img.youtube.com/vi/pE88EQZkR2U/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** 소프트웨어
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/watch?v=pE88EQZkR2U)  
+- **예제파일:** ❌
+- **내용:** [Async 기초 🔗](https://youtu.be/tgIeRK3Ckdo?si=0unONx4w-IaTYZ-S) 이론을 배우고 본 영상을 시청하세요. async의 동시성 기반을 이해하는데 task 개념을 알아야 합니다. async의 확장된 내용을 배워봅니다.
+
+</details>
+<br>
 <br>
 
 
@@ -400,7 +414,7 @@
 ### 진행중인 모임 / 세미나
 - [모임] [프로그램 동산의 IT코딩 학습자들 스터디 모임 🔗](https://event-us.kr/programgarden/event)
 - [세미나] [왕초보를 위한 주식코딩 스파르타 강의 🔗](https://event-us.kr/programgarden/event)
-- [세미나, 진행종료] ~~[운영체제에 구애받지 않고 증권 데이터 다루는 RestAPI 배우는 클래스 🔗](https://event-us.kr/programgarden/event)~~
+- [깃허브 스폰서분들을 위한 정기 세미나] [운영체제에 구애받지 않고 증권 데이터 다루는 RestAPI 배우는 클래스 🔗](https://event-us.kr/programgarden/event)
 
 
 <br>
