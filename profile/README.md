@@ -80,6 +80,19 @@
 </p>
 
 <details open>
+ <summary><b>문과생도 배우는 증권 투자용 AI 코딩 만들기 🔗</b></summary>
+ <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl" target="_blank"><img src="https://github.com/programgarden/.github/blob/main/images/comming_soon.png" width="200px" /></a>
+
+- **완강여부:** 진행중
+- **분야:** AI
+- **난이도:** 초보-고수
+- **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl)
+- **예제파일:** 준비중
+- **내용:** AI가 필수가된 시대에, 금융이라는 타이틀을 가지고 AI를 재밌고 쉽게 다루도록 알려주는 강의입니다.
+</details>
+<br>
+
+<details open>
  <summary><b>증권앱 코딩의 시작 flutter 왕기초 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenYmVcjnT62SgRhteJIDRzHY" target="_blank"><img src="https://img.youtube.com/vi/g8VyF8hOcDc/0.jpg" width="200px" /></a>
 
@@ -162,7 +175,7 @@
 </details>
 <br>
 
-<details open>
+<details>
  <summary><b>코딩 없니 증권 데이터 테스트 방법 Postman 배우기 🔗</b></summary>
  <a href="https://youtube.com/playlist?list=PLDtzZPtOGenbiXyvMTAV70VXnccmqllu0&si=3LzdZgtbbU4AX7l4" target="_blank"><img src="https://img.youtube.com/vi/L94-rd5_drE/0.jpg" width="200px" /></a>
 
@@ -176,7 +189,7 @@
 </details>
 <br>
 
-<details open>
+<details>
  <summary><b>왕초보의 빠른 코딩 실력 향상을 위한 코드 설계도 만들기_plantUML 배우기 🔗</b></summary>
 <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZgHKC6bkQaNL4AP109PuXh" target="_blank"><img src="https://img.youtube.com/vi/hMOEqGSTevc/0.jpg" width="200px" /></a>
 
