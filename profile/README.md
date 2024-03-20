@@ -410,10 +410,15 @@
 </p>
 
 ### <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 스폰서 무료 참석 지원 행사
-  - [(온/오프라인) 코딩 스터디 모임 🔗](https://event-us.kr/programgarden/event)
-  - [(온라인) 증권시스템 RestAPI 세미나 🔗](https://event-us.kr/programgarden/event)
+
+- [코딩 스터디 모임 🔗](https://event-us.kr/programgarden/event)
+    - 온라인: 6회차(4월14일), 7회차(5월12일)
+    - 오프라인: 5회차(3월24일)
+- [(온라인) 증권시스템 RestAPI 세미나 🔗](https://event-us.kr/programgarden/event)
+    - 온라인: 1회차(4월07일)
 
 ### 그 외 모든 행사
+
   - [(오프라인) 왕초보를 위한 주식코딩 스파르타 강의 🔗](https://event-us.kr/programgarden/event)
   - [모아보기 🔗](https://event-us.kr/programgarden/event)
 
