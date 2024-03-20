@@ -406,16 +406,16 @@
 -->
 ## 🌎 온라인/오프라인 세미나, 네트워킹 행사
 <p>
-프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여 혜택도 있어서 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워킹이 개최 되도록 노력하겠습니다.
+프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여 혜택도 있어서 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워크가 개최 되도록 노력하겠습니다.
 </p>
 
-모임, 세미나 보러가기: [https://event-us.kr/programgarden/event 🔗](https://event-us.kr/programgarden/event)
+### <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 스폰서 무료 참석 지원 행사
+  - [(온/오프라인) 코딩 스터디 모임 🔗](https://event-us.kr/programgarden/event)
+  - [(온라인) 증권시스템 RestAPI 세미나 🔗](https://event-us.kr/programgarden/event)
 
-### 진행중인 모임 / 세미나
-- [모임] [프로그램 동산의 IT코딩 학습자들 스터디 모임 🔗](https://event-us.kr/programgarden/event)
-- [세미나] [왕초보를 위한 주식코딩 스파르타 강의 🔗](https://event-us.kr/programgarden/event)
-- [깃허브 스폰서분들을 위한 정기 세미나] [운영체제에 구애받지 않고 증권 데이터 다루는 RestAPI 배우는 클래스 🔗](https://event-us.kr/programgarden/event)
-
+### 그 외 모든 행사
+  - [(오프라인) 왕초보를 위한 주식코딩 스파르타 강의 🔗](https://event-us.kr/programgarden/event)
+  - [모아보기 🔗](https://event-us.kr/programgarden/event)
 
 <br>
 <br>
