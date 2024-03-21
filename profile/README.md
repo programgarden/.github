@@ -28,7 +28,7 @@
 -->
 ## ❤️ 유튜브 강의자료(예제코드,교재) 받는 방법
 
-<b>학습자료는 스폰서(후원자) 등록 후 받을 수 있습니다.<b>
+<b>학습자료는 스폰서(후원자) 등록 후 받을 수 있습니다.</b>
 <br>
 
 <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하고 예제코드 받기-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
