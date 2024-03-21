@@ -81,7 +81,7 @@
 
 <details open>
  <summary><b>문과생도 배우는 증권 투자용 AI 코딩 만들기 🔗</b></summary>
- <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl" target="_blank"><img src="https://github.com/programgarden/.github/blob/main/images/comming_soon.png" width="200px" /></a>
+ <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl" target="_blank"><img src="https://img.youtube.com/vi/SUSYrkxKEDc/0.jpg" width="200px" /></a>
 
 - **완강여부:** 진행중
 - **분야:** AI
