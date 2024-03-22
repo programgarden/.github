@@ -87,7 +87,7 @@
 - **분야:** AI
 - **난이도:** 초보-고수
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl)
-- **예제파일:** 준비중
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/mechagarden_AIClass)
 - **내용:** AI가 필수가된 시대에, 금융이라는 타이틀을 가지고 AI를 재밌고 쉽게 다루도록 알려주는 강의입니다.
 </details>
 <br>
