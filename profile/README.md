@@ -80,6 +80,49 @@
 </p>
 
 <details open>
+ <summary><b>주식코딩 왕초보도 마스터하기 🔗</b></summary>
+<a href="https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf" target="_blank"><img src="https://img.youtube.com/vi/8RliFhxPf4k/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** 주식 시스템
+- **난이도:** 초보-중수
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
+- **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
+기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
+
+</details>
+<br>
+
+<details open>
+ <summary><b>해외선물 초단타 스캘핑 자동화 매매 🔗</b></summary>
+<a href="https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5" target="_blank"><img src="https://img.youtube.com/vi/nZacmWe8h2A/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** 해외선물 시스템
+- **난이도:** 초보-중수
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
+- **내용:** 해외선물 자동화 시스템을 만듭니다. 파이썬 왕기초부터 증권 프로그램으로 0.1초 단위로 수신되는 틱 데이터를 가지고 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.             
+
+</details>
+<br>
+
+<details open>
+ <summary><b>증권 데이터베이스 🔗</b></summary>
+<a href="https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY" target="_blank"><img src="https://img.youtube.com/vi/6iMU62FQfoA/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** DB
+- **난이도:** 초보
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
+
+</details>
+<br>
+
+<details open>
  <summary><b>문과생도 배우는 증권 투자용 AI 코딩 만들기 🔗</b></summary>
  <a href="https://www.youtube.com/playlist?list=PLDtzZPtOGenZ8j7fFQ2PqptIyGD5ZUQRl" target="_blank"><img src="https://img.youtube.com/vi/SUSYrkxKEDc/0.jpg" width="200px" /></a>
 
@@ -128,49 +171,6 @@
 - **영상제공:** [유튜브 보기 🔗](https://www.youtube.com/playlist?list=PLDtzZPtOGenZ5GmJLKRLUNq2gLHSNz5WE)
 - **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%A0%9C%ED%95%9C%20%EC%97%86%EB%8A%94%20%EC%A6%9D%EA%B6%8C%20RestAPI%20%EC%BD%94%EB%94%A9%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)
 - **내용:** 윈도우, 맥, 리눅스 등, 운영체제에 제한없이 어디서든 코딩이 가능한 RestAPI 방식으로 증권 데이터를 다뤄 봅니다. 초보자도 쉽게 배울 수 있는 강의입니다.
-
-</details>
-<br>
-
-<details open>
- <summary><b>주식코딩 왕초보도 마스터하기 🔗</b></summary>
-<a href="https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf" target="_blank"><img src="https://img.youtube.com/vi/8RliFhxPf4k/0.jpg" width="200px" /></a>
-
-- **완강여부:** 완강
-- **분야:** 주식 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
-- **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
-기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
-
-</details>
-<br>
-
-<details open>
- <summary><b>해외선물 초단타 스캘핑 자동화 매매 🔗</b></summary>
-<a href="https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5" target="_blank"><img src="https://img.youtube.com/vi/nZacmWe8h2A/0.jpg" width="200px" /></a>
-
-- **완강여부:** 완강
-- **분야:** 해외선물 시스템
-- **난이도:** 초보-중수
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
-- **내용:** 해외선물 자동화 시스템을 만듭니다. 파이썬 왕기초부터 증권 프로그램으로 0.1초 단위로 수신되는 틱 데이터를 가지고 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.             
-
-</details>
-<br>
-
-<details open>
- <summary><b>증권 데이터베이스 🔗</b></summary>
-<a href="https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY" target="_blank"><img src="https://img.youtube.com/vi/6iMU62FQfoA/0.jpg" width="200px" /></a>
-
-- **완강여부:** 완강
-- **분야:** DB
-- **난이도:** 초보
-- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenab7LTEOm-EZTFhJTmGdvDY)  
-- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A6%9D%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
-- **내용:** 주식 데이터를 관리할 수 있는 데이터베이스(저장소)를 배웁니다. 빠르게 구축하는 게 목적임으로 핵심만을 배우며 MySQL과 MongoDB를 다룹니다. <br>증권 HTS의 차트 데이터와 파이썬 코드를 이용합니다. HTS의 사용 및 파이썬 기초는 설명하지 않음으로 코딩을 처음 시작하는 분들은 4번 강의 '파이썬의 정석'을 수강하고 1번, 3번, 5번을 수강 후에 본 강의를 수강하는 것을 추천드립니다.
 
 </details>
 <br>
