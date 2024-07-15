@@ -102,21 +102,11 @@
 -->
 ## 🌎 온라인/오프라인 세미나, 네트워킹 행사
 <p>
-프로그램 동산은 학습자분들이 더 재밌게 코딩을 접할 수 있는 공간을 마련하도록 다양한 콘텐츠를 제공하고 있습니다. 프로그램 동산, 개발자 동료, 커뮤니티 회원님들이 다양한 네트워킹을 구성하고 학습을 이어가고 있습니다. 그리고 후원자 분들에게는 네트워킹 참여 혜택도 있어서 참여를 적극 권장하고 있으니깐, 원하는 모임에 참석해 보세요! 증권 코딩 실력 향상에 도움되는 더 다양한 네트워크가 개최 되도록 노력하겠습니다.
+프로그램 동산은 학습자분들이 더 재밌고 깊이있는 인사이트를 얻고 배움을 극대화 할 수 있는 공간을 마련했습니다. 해당 사이트로 오셔서 전문가들의 인사이트를 얻어보세요.
 </p>
 
-### <a href="https://github.com/sponsors/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/후원하기(Sponsor)-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=25/></a> 스폰서 무료 참석 지원 행사
+- [프로그램 동산 사이트 방문 🔗](https://programgarden.com)
 
-- [코딩 스터디 모임 🔗](https://event-us.kr/programgarden/event)
-    - 온라인: 6회차(4월14일), 7회차(5월12일)
-    - 오프라인: 5회차(3월24일)
-- [증권시스템 RestAPI 세미나 🔗](https://event-us.kr/programgarden/event)
-    - 온라인: 1회차(4월07일), 2회차(6월02일)
-
-### 그 외 모든 행사
-
-  - [(오프라인) 왕초보를 위한 주식코딩 스파르타 강의 🔗](https://event-us.kr/programgarden/event)
-  - [모아보기 🔗](https://event-us.kr/programgarden/event)
 
 <br>
 <br>
@@ -129,7 +119,7 @@
 
 -->
 ## 🏆 명예의 전당
-**14,000명** 중에서 선정된, 온라인/오프라인 커뮤니티 지식 공유가 우수한 멤버들입니다. 
+**16,000명** 중에서 선정된, 온라인/오프라인 커뮤니티 지식 공유가 우수한 멤버들입니다. 
 
 멤버의 프로필이 아직 작성되지 않았다면, 커뮤니티 랜덤 게시글로 연결됩니다.
 
