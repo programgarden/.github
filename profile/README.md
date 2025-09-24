@@ -5,7 +5,7 @@
 프로그램 동산에서 재미있게 놀며 나만의 증권 시스템을 설계해 보세요!
 
 ## 주요 서비스
-- **자동화매매시스템**: [2025년 9월 오픈 예정]
+- **자동화매매시스템**: https://github.com/programgarden/programgarden
 - **유튜브**: https://youtube.com/@programgarden
 - **네이버카페 (구독자 커뮤니티)**: https://cafe.naver.com/programgarden
 
