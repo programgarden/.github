@@ -6,7 +6,7 @@
 
 ## 주요 서비스
 - **자동화매매시스템**: https://github.com/programgarden/programgarden
-- **유튜브**: https://youtube.com/@programgarden
+- **유튜브 시스템 트레이딩 교육**: https://youtube.com/@programgarden
 - **네이버카페 (구독자 커뮤니티)**: https://cafe.naver.com/programgarden
 
 ## 비즈니스 문의
