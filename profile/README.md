@@ -6,9 +6,14 @@
 
 ## 주요 서비스
 - **자동화매매시스템**: https://github.com/programgarden/programgarden
+- **전략모음(실시간 업데이트 중)**: https://github.com/programgarden/programgarden_community
 - **시스템 트레이딩 대시보드 UI 오픈소스**: https://github.com/programgarden/programgarden_dashboard
 - **유튜브 시스템 트레이딩 교육**: https://youtube.com/@programgarden
 - **네이버카페 (구독자 커뮤니티)**: https://cafe.naver.com/programgarden
+
+## 커뮤니티
+- 네이버카페: https://cafe.naver.com/programgarden
+- 카카오톡단톡방:https://open.kakao.com/o/gKVObqUh
 
 ## 비즈니스 문의
 - 이메일: [coding@programgarden.com](mailto:coding@programgarden.com)
