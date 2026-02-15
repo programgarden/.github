@@ -5,9 +5,7 @@
 프로그램 동산에서 재미있게 놀며 나만의 증권 시스템을 설계해 보세요!
 
 ## 주요 서비스
-- **자동화매매시스템**: https://github.com/programgarden/programgarden
-- **전략모음(실시간 업데이트 중)**: https://programgarden.gitbook.io/docs/invest/strategy_list
-- **시스템 트레이딩 대시보드 UI 오픈소스**: https://github.com/programgarden/programgarden_dashboard
+- **자동화매매 워크플로우**: https://github.com/programgarden/programgarden
 - **유튜브 시스템 트레이딩 교육**: https://youtube.com/@programgarden
 - **네이버카페 (구독자 커뮤니티)**: https://cafe.naver.com/programgarden
 
